@@ -8,7 +8,7 @@ A practical cybersecurity framework for small businesses using open-source tools
 
 ## 🛠️ Tools & Technologies
 
-## 🏗️ Implementation
+## 🏗️ Implementation 
 
 ### 1. Network Scanning
 ### 2. Firewall Configuration
